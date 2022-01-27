@@ -10,7 +10,9 @@ Each subject is captured from multiple cameras in different moments. Are present
 ## To run the code
 
 In order to run the code please follow the next steps:
-- Download the folder and load the .ipynb files on your google drive account
+- Download the .ipynb files on your google drive account
+- Download the zipped dataset in your google drive account
+- Modify the variable DATASET_ZIP_PATH with the path to the zip of the dataset
 - Run the files
 
 
