@@ -10,9 +10,12 @@ Each subject is captured from multiple cameras in different moments. Are present
 ## To run the code
 
 In order to run the code please follow the next steps:
-- Download the .ipynb files on your google drive account
-- Download the zipped dataset in your google drive account
-- Modify the variable DATASET_ZIP_PATH with the path to the zip of the dataset
-- Run the files
+- Load the dataset.zip file into your Google drive account 
+- download all the folder in your google drive account
+- In the dataset section change the dataset.zip path (to unzip the dataset) according to your google drive folder structure
+- Run the .ipynb files on Colab
+
+
+
 
 
